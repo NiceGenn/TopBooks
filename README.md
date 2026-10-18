@@ -59,7 +59,7 @@ npm run import:books
 
 ## Публикация
 
-Пользователь выбрал GitHub Pages. Пошаговая инструкция — [`docs/PUBLISHING.md`](docs/PUBLISHING.md). Workflow уже подготовлен; необходима загрузка проекта в `main` и включение Pages → GitHub Actions. Пока эти действия и проверка URL не выполнены, сайт не опубликован.
+Пользователь выбрал GitHub Pages. Пошаговая инструкция — [`docs/PUBLISHING.md`](docs/PUBLISHING.md). Проект уже загружен в `main`; первая сборка и тесты GitHub Actions прошли. Публикация ожидает включения Settings → Pages → GitHub Actions и повторного запуска job deploy. Сайт пока не опубликован.
 
 Правила работы: [`AGENTS.md`](AGENTS.md). Память проекта: [`MEMORY.md`](MEMORY.md).
 
