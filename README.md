@@ -59,7 +59,7 @@ npm run import:books
 
 ## Публикация
 
-Пользователь выбрал GitHub Pages. Пошаговая инструкция — [`docs/PUBLISHING.md`](docs/PUBLISHING.md). Проект уже загружен в `main`; первая сборка и тесты GitHub Actions прошли. Публикация ожидает включения Settings → Pages → GitHub Actions и повторного запуска job deploy. Сайт пока не опубликован.
+Пользователь выбрал GitHub Pages. Пошаговая инструкция — [`docs/PUBLISHING.md`](docs/PUBLISHING.md). Проект загружен в `main`. После включения Pages сборка, тесты и deploy [успешно завершились](https://github.com/NiceGenn/TopBooks/actions/runs/39136365424). Адрес: https://nicegenn.github.io/TopBooks/ . Прямую HTTP-проверку из облачной среды ограничивает её сетевая политика; локальная production-сборка проверена.
 
 Правила работы: [`AGENTS.md`](AGENTS.md). Память проекта: [`MEMORY.md`](MEMORY.md).
 
