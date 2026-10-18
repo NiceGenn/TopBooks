@@ -1,0 +1,830 @@
+{
+  "1": {
+    "yandexUrl": "https://books.yandex.ru/books/xa3Ih8ZB",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/93/db/xa3Ih8ZB-ipad.jpeg?image_hash=df6553fdee088d0a421ea90e64f5684f",
+    "matchedTitle": "Маленький принц",
+    "matchedAuthors": [
+      "Антуан де Сент-Экзюпери"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%B8%D0%BD%D1%86",
+    "checkedAt": "2026-10-18"
+  },
+  "3": {
+    "yandexUrl": "https://books.yandex.ru/books/sBfYi1l4",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/50/6c/sBfYi1l4-ipad.jpeg?image_hash=e1bc5958e908637b0ef6b300047f9f8d",
+    "matchedTitle": "Чайка Джонатан Ливингстон",
+    "matchedAuthors": [
+      "Ричард Бах"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0%20%D0%94%D0%B6%D0%BE%D0%BD%D0%B0%D1%82%D0%B0%D0%BD%20%D0%9B%D0%B8%D0%B2%D0%B8%D0%BD%D0%B3%D1%81%D1%82%D0%BE%D0%BD",
+    "checkedAt": "2026-10-18"
+  },
+  "5": {
+    "yandexUrl": "https://books.yandex.ru/books/CMCJ2rn1",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/6e/21/CMCJ2rn1-ipad.jpeg?image_hash=a5740bc635b18679e5ddebd8b679cb62",
+    "matchedTitle": "Убить пересмешника",
+    "matchedAuthors": [
+      "Харпер Ли"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A3%D0%B1%D0%B8%D1%82%D1%8C%20%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "7": {
+    "yandexUrl": "https://books.yandex.ru/books/BJohsiqE",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/82/bd/BJohsiqE-ipad.jpeg?image_hash=2f0beafa65dfe7faeb6c0203cc28916a",
+    "matchedTitle": "Великий Гэтсби",
+    "matchedAuthors": [
+      "Фрэнсис Скотт Фицджеральд"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9%20%D0%93%D1%8D%D1%82%D1%81%D0%B1%D0%B8",
+    "checkedAt": "2026-10-18"
+  },
+  "8": {
+    "yandexUrl": "https://books.yandex.ru/books/Dim3aLer",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/d0/77/Dim3aLer-ipad.jpeg?image_hash=bff69bfa607ef539f0889ef26007c1ce",
+    "matchedTitle": "Космос",
+    "matchedAuthors": [
+      "Карл Саган"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81",
+    "checkedAt": "2026-10-18"
+  },
+  "9": {
+    "yandexUrl": "https://books.yandex.ru/books/yKvC2Q6l",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/5c/0f/yKvC2Q6l-ipad.jpeg?image_hash=b516105a90e84f76c05f73bb3ba90b75",
+    "matchedTitle": "1984",
+    "matchedAuthors": [
+      "Джордж Оруэлл"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/1984",
+    "checkedAt": "2026-10-18"
+  },
+  "10": {
+    "yandexUrl": "https://books.yandex.ru/books/osMCtKdx",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/91/ef/osMCtKdx-ipad.jpeg?image_hash=2b583d274d2989b7f4074734cf11d930",
+    "matchedTitle": "Предсказуемая иррациональность: Скрытые силы, определяющие наши решения",
+    "matchedAuthors": [
+      "Дэн Ариели"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D1%83%D0%B5%D0%BC%D0%B0%D1%8F%20%D0%B8%D1%80%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+    "checkedAt": "2026-10-18"
+  },
+  "12": {
+    "yandexUrl": "https://books.yandex.ru/books/iQXPvjl2",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/04/f9/iQXPvjl2-ipad.jpeg?image_hash=4b161a5368def80535eaa42a4f0f0300",
+    "matchedTitle": "Сказать жизни «ДА!»: психолог в концлагере",
+    "matchedAuthors": [
+      "Виктор Франкл"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A1%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%20%C2%AB%D0%94%D0%B0%21%C2%BB",
+    "checkedAt": "2026-10-18"
+  },
+  "13": {
+    "yandexUrl": "https://books.yandex.ru/books/U0NWNj33",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/17/41/U0NWNj33-ipad.jpeg?image_hash=938da8459bfdf9b9f6aeeb4d95992598",
+    "matchedTitle": "Повелитель мух (сборник)",
+    "matchedAuthors": [
+      "Уильям Голдинг"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%BC%D1%83%D1%85",
+    "checkedAt": "2026-10-18"
+  },
+  "14": {
+    "yandexUrl": "https://books.yandex.ru/books/YAQ0k1rL",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/50/fd/YAQ0k1rL-ipad.jpeg?image_hash=005e64732ec2c22f0c28eb0fe4adb0ea",
+    "matchedTitle": "Искусство войны",
+    "matchedAuthors": [
+      "Сунь-цзы"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%20%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B",
+    "checkedAt": "2026-10-18"
+  },
+  "15": {
+    "yandexUrl": "https://books.yandex.ru/books/iTfPhaUr",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/f7/31/iTfPhaUr-ipad.jpeg?image_hash=027124071e99de73fa784706e1ff838e",
+    "matchedTitle": "Сиддхартха",
+    "matchedAuthors": [
+      "Герман Гессе"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A1%D0%B8%D0%B4%D0%B4%D1%85%D0%B0%D1%80%D1%82%D1%85%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "16": {
+    "yandexUrl": "https://books.yandex.ru/books/ATNFI2ge",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/ee/16/ATNFI2ge-ipad.jpeg?image_hash=ac9fa4f234d994c54d07da425c03cb06",
+    "matchedTitle": "На Западном фронте без перемен",
+    "matchedAuthors": [
+      "Эрих Мария Ремарк"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9D%D0%B0%20%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%BC%20%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD",
+    "checkedAt": "2026-10-18"
+  },
+  "17": {
+    "yandexUrl": "https://books.yandex.ru/books/Au57t8YF",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/14/f2/Au57t8YF-ipad.jpeg?image_hash=502ece6db838f593782a27b3b2f0aa73",
+    "matchedTitle": "Скотный двор",
+    "matchedAuthors": [
+      "Джордж Оруэлл"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A1%D0%BA%D0%BE%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B2%D0%BE%D1%80",
+    "checkedAt": "2026-10-18"
+  },
+  "20": {
+    "yandexUrl": "https://books.yandex.ru/books/LwOTonb0",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/2b/66/LwOTonb0-ipad.jpeg?image_hash=b102ee397a9bc35555b7aaf2fa4f43c6",
+    "matchedTitle": "Автостопом по Галактике. Ресторан «У конца Вселенной» (сборник)",
+    "matchedAuthors": [
+      "Дуглас Адамс"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%90%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC%20%D0%BF%D0%BE%20%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5",
+    "checkedAt": "2026-10-18"
+  },
+  "21": {
+    "yandexUrl": "https://books.yandex.ru/books/TBVIb9q4",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/35/e7/TBVIb9q4-ipad.jpeg?image_hash=3915b8945620043f3a993e446fd2e700",
+    "matchedTitle": "Превращение",
+    "matchedAuthors": [
+      "Франц Кафка"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5",
+    "checkedAt": "2026-10-18"
+  },
+  "23": {
+    "yandexUrl": "https://books.yandex.ru/books/FkblLAMF",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/dc/d2/FkblLAMF-ipad.png?image_hash=95bd7b81da5411503ad0adb43e9f4762",
+    "matchedTitle": "Портрет Дориана Грея",
+    "matchedAuthors": [
+      "Оскар Уайльд"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D0%B0%20%D0%93%D1%80%D0%B5%D1%8F",
+    "checkedAt": "2026-10-18"
+  },
+  "24": {
+    "yandexUrl": "https://books.yandex.ru/books/uOUN5hji",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/ef/89/uOUN5hji-ipad.jpeg?image_hash=b6906d722a49eeb1bf3cf21e5e8eeb98",
+    "matchedTitle": "Посторонний",
+    "matchedAuthors": [
+      "Альбер Камю"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9",
+    "checkedAt": "2026-10-18"
+  },
+  "25": {
+    "yandexUrl": "https://books.yandex.ru/books/ZilbGYqp",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/41/70/ZilbGYqp-ipad.jpeg?image_hash=628b485500a88b89d3f8a7195763dc9b",
+    "matchedTitle": "Чума",
+    "matchedAuthors": [
+      "Альбер Камю"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A7%D1%83%D0%BC%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "27": {
+    "yandexUrl": "https://books.yandex.ru/books/ox8T31u4",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/ae/0a/ox8T31u4-ipad.jpeg?image_hash=825d2e0fd98f682e5c15841acb06abef",
+    "matchedTitle": "Мартин Иден",
+    "matchedAuthors": [
+      "Джек Лондон"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%20%D0%98%D0%B4%D0%B5%D0%BD",
+    "checkedAt": "2026-10-18"
+  },
+  "28": {
+    "yandexUrl": "https://books.yandex.ru/books/CuYS2c6c",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/be/fa/CuYS2c6c-ipad.jpeg?image_hash=96027c725f1539abf62b4e3b4cc6cac2",
+    "matchedTitle": "Большие надежды",
+    "matchedAuthors": [
+      "Чарльз Диккенс"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B",
+    "checkedAt": "2026-10-18"
+  },
+  "30": {
+    "yandexUrl": "https://books.yandex.ru/books/ApOv8ISe",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/41/d1/ApOv8ISe-ipad.jpeg?image_hash=6e920e4fd11af275886252fd9b0692b9",
+    "matchedTitle": "Думай медленно… Решай быстро",
+    "matchedAuthors": [
+      "Даниэль Канеман"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%94%D1%83%D0%BC%D0%B0%D0%B9%20%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%E2%80%A6%20%D1%80%D0%B5%D1%88%D0%B0%D0%B9%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE",
+    "checkedAt": "2026-10-18"
+  },
+  "33": {
+    "yandexUrl": "https://books.yandex.ru/books/GH7NBpru",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/fe/37/JQ9kBI9V-ipad.jpeg?image_hash=7e5ca160ca0925a6b2983a99d0f70662",
+    "matchedTitle": "Евгений Онегин",
+    "matchedAuthors": [
+      "Александр Пушкин"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD",
+    "checkedAt": "2026-10-18"
+  },
+  "36": {
+    "yandexUrl": "https://books.yandex.ru/books/aSTztYEI",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/a8/e9/aSTztYEI-ipad.jpeg?image_hash=274f1c9ffc68278ed84dcb8433c8f562",
+    "matchedTitle": "Кратчайшая история времени",
+    "matchedAuthors": [
+      "Леонард Млодинов",
+      "Стивен Хокинг"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9A%D1%80%D0%B0%D1%82%D1%87%D0%B0%D0%B9%D1%88%D0%B0%D1%8F%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8",
+    "checkedAt": "2026-10-18"
+  },
+  "37": {
+    "yandexUrl": "https://books.yandex.ru/books/O37HyQOV",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/a3/b1/O37HyQOV-ipad.png?image_hash=3991e41776a9cb7a3019e65844b06e46",
+    "matchedTitle": "Гамлет",
+    "matchedAuthors": [
+      "Уильям Шекспир"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82",
+    "checkedAt": "2026-10-18"
+  },
+  "38": {
+    "yandexUrl": "https://books.yandex.ru/books/C84KKCj8",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/ee/e4/C84KKCj8-ipad.jpeg?image_hash=89afce892bb97c324b9e04f29fb43226",
+    "matchedTitle": "Диалоги. Апология Сократа",
+    "matchedAuthors": [
+      "Платон"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%90%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "39": {
+    "yandexUrl": "https://books.yandex.ru/books/YkioQwtP",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/11/d0/YkioQwtP-ipad.jpeg?image_hash=81820817728fe3c53961e19e8654d394",
+    "matchedTitle": "Искусство любить",
+    "matchedAuthors": [
+      "Эрих Фромм"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%20%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D1%8C",
+    "checkedAt": "2026-10-18"
+  },
+  "40": {
+    "yandexUrl": "https://books.yandex.ru/books/mDqYEink",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/6b/96/mDqYEink-ipad.jpeg?image_hash=3de54aa297e6692e09b3686158c7e1a1",
+    "matchedTitle": "Наедине с собой. Размышления",
+    "matchedAuthors": [
+      "Марк Аврелий",
+      "Марк Аврелий"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9D%D0%B0%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%20%D1%81%20%D1%81%D0%BE%D0%B1%D0%BE%D0%B9",
+    "checkedAt": "2026-10-18"
+  },
+  "41": {
+    "yandexUrl": "https://books.yandex.ru/books/b5j9Cps7",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/3f/5f/b5j9Cps7-ipad.png?image_hash=90048226358b1b94070ef24c69192f5a",
+    "matchedTitle": "Дао Дэ цзин",
+    "matchedAuthors": [
+      "Лао Цзы",
+      "Лао Цзы"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%94%D0%B0%D0%BE%20%D0%B4%D1%8D%20%D1%86%D0%B7%D0%B8%D0%BD",
+    "checkedAt": "2026-10-18"
+  },
+  "43": {
+    "yandexUrl": "https://books.yandex.ru/books/HnE0B3aT",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/3d/c2/HnE0B3aT-ipad.jpeg?image_hash=d381b867e97299001ea26cd11295d241",
+    "matchedTitle": "Нравственные письма к Луцилию",
+    "matchedAuthors": [
+      "Луций Анней Сенека"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%20%D0%BA%20%D0%9B%D1%83%D1%86%D0%B8%D0%BB%D0%B8%D1%8E",
+    "checkedAt": "2026-10-18"
+  },
+  "46": {
+    "yandexUrl": "https://books.yandex.ru/books/JTzHk39p",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/73/91/JTzHk39p-ipad.jpeg?image_hash=4e2c899e76310bccbec6a2189230d29a",
+    "matchedTitle": "Экзистенциализм — это гуманизм",
+    "matchedAuthors": [
+      "Жан-Поль Сартр"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%AD%D0%BA%D0%B7%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%20%E2%80%94%20%D1%8D%D1%82%D0%BE%20%D0%B3%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC",
+    "checkedAt": "2026-10-18"
+  },
+  "48": {
+    "yandexUrl": "https://books.yandex.ru/books/wA52W4VF",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/f4/d5/wA52W4VF-ipad.jpeg?image_hash=e0564fa3490f1fda2a7484f71f310f29",
+    "matchedTitle": "Бунтующий человек. Миф о Сизифе",
+    "matchedAuthors": [
+      "Альбер Камю"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D0%B8%D1%84%20%D0%BE%20%D0%A1%D0%B8%D0%B7%D0%B8%D1%84%D0%B5",
+    "checkedAt": "2026-10-18"
+  },
+  "51": {
+    "yandexUrl": "https://books.yandex.ru/books/POP114gi",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/b6/85/POP114gi-ipad.jpeg?image_hash=beb4dd8d3099632977fc43f289a91faf",
+    "matchedTitle": "Процесс",
+    "matchedAuthors": [
+      "Франц Кафка"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81",
+    "checkedAt": "2026-10-18"
+  },
+  "55": {
+    "yandexUrl": "https://books.yandex.ru/books/ABI12emg",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/f8/99/ABI12emg-ipad.jpeg?image_hash=daa502d35583aa87955bb79880e58b8c",
+    "matchedTitle": "Тошнота",
+    "matchedAuthors": [
+      "Жан-Поль Сартр"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A2%D0%BE%D1%88%D0%BD%D0%BE%D1%82%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "57": {
+    "yandexUrl": "https://books.yandex.ru/books/eFVsuGEm",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/2e/c7/eFVsuGEm-ipad.jpeg?image_hash=daf56ecf9bf818efbde56ec91d9b45e7",
+    "matchedTitle": "Аналитики. Никомахова этика",
+    "matchedAuthors": [
+      "Аристотель"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BC%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%20%D1%8D%D1%82%D0%B8%D0%BA%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "59": {
+    "yandexUrl": "https://books.yandex.ru/books/PxJt3iC2",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/7f/50/PxJt3iC2-ipad.jpeg?image_hash=0ec9312a113ae4fbb27a8b748039f3bb",
+    "matchedTitle": "Слепой часовщик. Как эволюция доказывает отсутствие замысла во Вселенной",
+    "matchedAuthors": [
+      "Ричард Докинз"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A1%D0%BB%D0%B5%D0%BF%D0%BE%D0%B9%20%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D1%89%D0%B8%D0%BA",
+    "checkedAt": "2026-10-18"
+  },
+  "61": {
+    "yandexUrl": "https://books.yandex.ru/books/MBuSj6kp",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/f7/cd/MBuSj6kp-ipad.jpeg?image_hash=656b32878fa674910ad592e7ea19754d",
+    "matchedTitle": "Ружья, микробы и сталь. История человеческих сообществ",
+    "matchedAuthors": [
+      "Джаред Даймонд"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A0%D1%83%D0%B6%D1%8C%D1%8F%2C%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D1%8B%20%D0%B8%20%D1%81%D1%82%D0%B0%D0%BB%D1%8C",
+    "checkedAt": "2026-10-18"
+  },
+  "63": {
+    "yandexUrl": "https://books.yandex.ru/books/xKQuo2ek",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/90/af/xKQuo2ek-ipad.jpeg?image_hash=987a539fd0e9f3008dd298c9d648a7c2",
+    "matchedTitle": "Шантарам",
+    "matchedAuthors": [
+      "Грегори Дэвид Робертс"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A8%D0%B0%D0%BD%D1%82%D0%B0%D1%80%D0%B0%D0%BC",
+    "checkedAt": "2026-10-18"
+  },
+  "64": {
+    "yandexUrl": "https://books.yandex.ru/books/HUlHvN3c",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/96/b1/HUlHvN3c-ipad.jpeg?image_hash=99bb063c0ed1070828cdbb3152e242a1",
+    "matchedTitle": "Преступление и наказание (с илл. М. Бычкова)",
+    "matchedAuthors": [
+      "Фёдор Достоевский"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5",
+    "checkedAt": "2026-10-18"
+  },
+  "66": {
+    "yandexUrl": "https://books.yandex.ru/books/MWxAop5b",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/0a/d0/MWxAop5b-ipad.jpeg?image_hash=e987f93cdd8d2c0f5313263b8fcf3b93",
+    "matchedTitle": "Мастер и Маргарита",
+    "matchedAuthors": [
+      "Михаил Булгаков"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%B8%20%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "68": {
+    "yandexUrl": "https://books.yandex.ru/books/CQWyL6jp",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/08/d5/CQWyL6jp-ipad.png?image_hash=c024c621adc6e80add69faacffaf27a9",
+    "matchedTitle": "Мёртвые души",
+    "matchedAuthors": [
+      "Николай Гоголь"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5%20%D0%B4%D1%83%D1%88%D0%B8",
+    "checkedAt": "2026-10-18"
+  },
+  "69": {
+    "yandexUrl": "https://books.yandex.ru/books/QxFud8Uj",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/48/43/QxFud8Uj-ipad.jpeg?image_hash=68f274ffcbd564cc694969fcc9b87069",
+    "matchedTitle": "Понять природу человека",
+    "matchedAuthors": [
+      "Альфред Адлер"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D1%83%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "70": {
+    "yandexUrl": "https://books.yandex.ru/books/CLNU473s",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/bb/0d/CLNU473s-ipad.png?image_hash=43ff8080016102a682cb45d9176dcd9a",
+    "matchedTitle": "Анна Каренина",
+    "matchedAuthors": [
+      "Лев Толстой"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%90%D0%BD%D0%BD%D0%B0%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "72": {
+    "yandexUrl": "https://books.yandex.ru/books/RuLNt8od",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/be/4d/RuLNt8od-ipad.jpeg?image_hash=613134293b9fea8029c1d14c0df7fc33",
+    "matchedTitle": "Сто лет одиночества",
+    "matchedAuthors": [
+      "Габриэль Гарсиа Маркес"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A1%D1%82%D0%BE%20%D0%BB%D0%B5%D1%82%20%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "78": {
+    "yandexUrl": "https://books.yandex.ru/books/AILSi1cf",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/a8/74/AILSi1cf-ipad.jpeg?image_hash=0bd37f6ac56a6b427837cf53448e5e1d",
+    "matchedTitle": "Лолита",
+    "matchedAuthors": [
+      "Владимир Набоков"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9B%D0%BE%D0%BB%D0%B8%D1%82%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "80": {
+    "yandexUrl": "https://books.yandex.ru/books/IKyI4qf9",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/dc/68/IKyI4qf9-ipad.jpeg?image_hash=c66532812f33cdf425c538c940dcd7aa",
+    "matchedTitle": "Имя розы",
+    "matchedAuthors": [
+      "Умберто Эко"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%98%D0%BC%D1%8F%20%D1%80%D0%BE%D0%B7%D1%8B",
+    "checkedAt": "2026-10-18"
+  },
+  "83": {
+    "yandexUrl": "https://books.yandex.ru/books/AXxwebot",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/24/f9/AXxwebot-ipad.jpeg?image_hash=42c10355e404eff0bde308eabb3e0d5e",
+    "matchedTitle": "Структура научных революций",
+    "matchedAuthors": [
+      "Томас Кун"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D1%85%20%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B9",
+    "checkedAt": "2026-10-18"
+  },
+  "84": {
+    "yandexUrl": "https://books.yandex.ru/books/OlvSDHjf",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/08/c6/OlvSDHjf-ipad.jpeg?image_hash=f498624ab100b9d5e6f7eca396faa03e",
+    "matchedTitle": "Второй пол",
+    "matchedAuthors": [
+      "Симона де Бовуар"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BB",
+    "checkedAt": "2026-10-18"
+  },
+  "85": {
+    "yandexUrl": "https://books.yandex.ru/books/Rj6Ol6q7",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/78/3a/Rj6Ol6q7-ipad.jpeg?image_hash=cf1cdf14c3143f14edf1bec3484f96f3",
+    "matchedTitle": "Архипелаг ГУЛаг. 1918–1956: Опыт художественного исследования. Том 1",
+    "matchedAuthors": [
+      "Александр Солженицын"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3%20%D0%93%D0%A3%D0%9B%D0%90%D0%93",
+    "checkedAt": "2026-10-18"
+  },
+  "89": {
+    "yandexUrl": "https://books.yandex.ru/books/EYBNM2G6",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/b7/e4/EYBNM2G6-ipad.jpeg?image_hash=90151754e9e744dcd9c5d94bd0bb6c54",
+    "matchedTitle": "Братья Карамазовы",
+    "matchedAuthors": [
+      "Фёдор Достоевский"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F%20%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B",
+    "checkedAt": "2026-10-18"
+  },
+  "90": {
+    "yandexUrl": "https://books.yandex.ru/books/SoQoXHly",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/cb/4c/SoQoXHly-ipad.png?image_hash=3fddfdfa75f95cec1eff316a980b5edf",
+    "matchedTitle": "Происхождение видов",
+    "matchedAuthors": [
+      "Чарлз Дарвин"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2",
+    "checkedAt": "2026-10-18"
+  },
+  "91": {
+    "yandexUrl": "https://books.yandex.ru/books/TXGRits7",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/ac/af/TXGRits7-ipad.jpeg?image_hash=0367d2d7f1a803b034ba57b3b2c5f7d9",
+    "matchedTitle": "Война и мир",
+    "matchedAuthors": [
+      "Лев Толстой"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0%20%D0%B8%20%D0%BC%D0%B8%D1%80",
+    "checkedAt": "2026-10-18"
+  },
+  "92": {
+    "yandexUrl": "https://books.yandex.ru/books/nu8pbbG2",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/75/8a/nu8pbbG2-ipad.jpeg?image_hash=72b39d0aaf017afbc789ab220bab198a",
+    "matchedTitle": "Государство",
+    "matchedAuthors": [
+      "Платон"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE",
+    "checkedAt": "2026-10-18"
+  },
+  "93": {
+    "yandexUrl": "https://books.yandex.ru/books/ZE82NW0e",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/27/ef/ZE82NW0e-ipad.jpeg?image_hash=6fec536df345fb86a2f256e02a424f46",
+    "matchedTitle": "Дон Кихот",
+    "matchedAuthors": [
+      "Мигель де Сервантес"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%94%D0%BE%D0%BD%20%D0%9A%D0%B8%D1%85%D0%BE%D1%82",
+    "checkedAt": "2026-10-18"
+  },
+  "94": {
+    "yandexUrl": "https://books.yandex.ru/books/VxE5LtUS",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/c3/5a/VxE5LtUS-ipad.jpeg?image_hash=5c5e17f3dc9ac6f5b30b7abaec1bc721",
+    "matchedTitle": "Фауст",
+    "matchedAuthors": [
+      "Иоганн Вольфганг Гёте"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A4%D0%B0%D1%83%D1%81%D1%82",
+    "checkedAt": "2026-10-18"
+  },
+  "95": {
+    "yandexUrl": "https://books.yandex.ru/books/MLOkLWNB",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/92/fb/MLOkLWNB-ipad.jpeg?image_hash=2b7e0916806dff1e246a75d77e302c86",
+    "matchedTitle": "Так говорил Заратустра",
+    "matchedAuthors": [
+      "Фридрих Ницше"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A2%D0%B0%D0%BA%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB%20%D0%97%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%81%D1%82%D1%80%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "96": {
+    "yandexUrl": "https://books.yandex.ru/books/aOmDgsEY",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/21/47/aOmDgsEY-ipad.png?image_hash=09f0aaf7c71f072c51ef08ed34ac3a8c",
+    "matchedTitle": "Божественная комедия. Ад",
+    "matchedAuthors": [
+      "Данте Алигьери"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%91%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F",
+    "checkedAt": "2026-10-18"
+  },
+  "97": {
+    "yandexUrl": "https://books.yandex.ru/books/GACM2j7s",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/8e/71/GACM2j7s-ipad.png?image_hash=fb3d904b686f3dbf94bbd8322bbf064e",
+    "matchedTitle": "Илиада",
+    "matchedAuthors": [
+      "Гомер"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%98%D0%BB%D0%B8%D0%B0%D0%B4%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "98": {
+    "yandexUrl": "https://books.yandex.ru/books/NW6cGGTl",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/d7/8e/NW6cGGTl-ipad.jpeg?image_hash=f6a331a8dbd5acc4e4820aae037e2477",
+    "matchedTitle": "Одиссея",
+    "matchedAuthors": [
+      "Гомер"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F",
+    "checkedAt": "2026-10-18"
+  },
+  "100": {
+    "yandexUrl": "https://books.yandex.ru/books/HeUJruqd",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/1d/ad/HeUJruqd-ipad.jpeg?image_hash=5b3fc6b09674b2ba343654f612e6e810",
+    "matchedTitle": "Улисс",
+    "matchedAuthors": [
+      "Джеймс Джойс"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A3%D0%BB%D0%B8%D1%81%D1%81",
+    "checkedAt": "2026-10-18"
+  },
+  "104": {
+    "yandexUrl": "https://books.yandex.ru/books/xkPTmlsj",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/43/93/xkPTmlsj-ipad.jpeg?image_hash=7f4214398d167f84a3865ebfa52e1e63",
+    "matchedTitle": "О мышах и людях. Жемчужина (сборник)",
+    "matchedAuthors": [
+      "Джон Стейнбек"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9E%20%D0%BC%D1%8B%D1%88%D0%B0%D1%85%20%D0%B8%20%D0%BB%D1%8E%D0%B4%D1%8F%D1%85",
+    "checkedAt": "2026-10-18"
+  },
+  "105": {
+    "yandexUrl": "https://books.yandex.ru/books/HYwvGjjs",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/51/e5/HYwvGjjs-ipad.jpeg?image_hash=3f6f91bae98ef5f444a43dcda7bb7cd0",
+    "matchedTitle": "Занимательная Греция",
+    "matchedAuthors": [
+      "Михаил Гаспаров"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%97%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F",
+    "checkedAt": "2026-10-18"
+  },
+  "108": {
+    "yandexUrl": "https://books.yandex.ru/books/hM6YwH17",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/f8/03/hM6YwH17-ipad.jpg",
+    "matchedTitle": "Мертвым не больно",
+    "matchedAuthors": [
+      "Василь Быков"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%BC%20%D0%BD%D0%B5%20%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE",
+    "checkedAt": "2026-10-18"
+  },
+  "110": {
+    "yandexUrl": "https://books.yandex.ru/books/Reog062z",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/86/a4/Reog062z-ipad.jpeg?image_hash=700bf2c750f80c15b49b12b8d5cdeb42",
+    "matchedTitle": "Боги жаждут",
+    "matchedAuthors": [
+      "Анатоль Франс"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%91%D0%BE%D0%B3%D0%B8%20%D0%B6%D0%B0%D0%B6%D0%B4%D1%83%D1%82",
+    "checkedAt": "2026-10-18"
+  },
+  "111": {
+    "yandexUrl": "https://books.yandex.ru/books/xXGBSjgc",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/73/c7/xXGBSjgc-ipad.jpeg?image_hash=d97d3f17a85c0bb5cf73f52f5c85f8b8",
+    "matchedTitle": "Тереза Ракен",
+    "matchedAuthors": [
+      "Эмиль Золя"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A2%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%20%D0%A0%D0%B0%D0%BA%D0%B5%D0%BD",
+    "checkedAt": "2026-10-18"
+  },
+  "112": {
+    "yandexUrl": "https://books.yandex.ru/books/yNzC4pt6",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/ee/45/yNzC4pt6-ipad.jpeg?image_hash=08dca7e12f8b2304ac19ad694bdf9dc2",
+    "matchedTitle": "Отец Горио",
+    "matchedAuthors": [
+      "Оноре де Бальзак"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9E%D1%82%D0%B5%D1%86%20%D0%93%D0%BE%D1%80%D0%B8%D0%BE",
+    "checkedAt": "2026-10-18"
+  },
+  "113": {
+    "yandexUrl": "https://books.yandex.ru/books/QQwNkbh8",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/fb/54/QQwNkbh8-ipad.jpeg?image_hash=263aaf2cb03344506a6f3295be5812f1",
+    "matchedTitle": "Рассказ о семи повешенных",
+    "matchedAuthors": [
+      "Леонид Андреев"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%A0%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%20%D0%BE%20%D1%81%D0%B5%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D1%85",
+    "checkedAt": "2026-10-18"
+  },
+  "114": {
+    "yandexUrl": "https://books.yandex.ru/books/INX13int",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/5f/5a/INX13int-ipad.png?image_hash=eb7f18bb789b83027432aa4d4e3baa55",
+    "matchedTitle": "Мы",
+    "matchedAuthors": [
+      "Евгений Замятин"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9C%D1%8B",
+    "checkedAt": "2026-10-18"
+  },
+  "115": {
+    "yandexUrl": "https://books.yandex.ru/books/HGLXhfbj",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/09/5f/HGLXhfbj-ipad.jpeg?image_hash=df272bc3a530530a277cbfc548eca155",
+    "matchedTitle": "Жизнь и судьба",
+    "matchedAuthors": [
+      "Василий Гроссман"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%B8%20%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "116": {
+    "yandexUrl": "https://books.yandex.ru/books/H4eTCOHX",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/a5/1d/H4eTCOHX-ipad.jpeg?image_hash=1e910706cc35938803e5ea591529fa3b",
+    "matchedTitle": "Житейские воззрения кота Мурра",
+    "matchedAuthors": [
+      "Эрнст Теодор Амадей Гофман"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%96%D0%B8%D1%82%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%D0%BE%D1%82%D0%B0%20%D0%9C%D1%83%D1%80%D1%80%D0%B0",
+    "checkedAt": "2026-10-18"
+  },
+  "117": {
+    "yandexUrl": "https://books.yandex.ru/books/CWUzigfr",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/be/69/CWUzigfr-ipad.jpeg?image_hash=1689f59b3758cbb7017ea870dc1d51e5",
+    "matchedTitle": "Бесы",
+    "matchedAuthors": [
+      "Фёдор Достоевский"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%91%D0%B5%D1%81%D1%8B",
+    "checkedAt": "2026-10-18"
+  },
+  "118": {
+    "yandexUrl": "https://books.yandex.ru/books/EKTF2c78",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/07/18/EKTF2c78-ipad.jpeg?image_hash=6549f02a0a0c0af21c7a199443fada49",
+    "matchedTitle": "Generation «П» (Поколение «П»)",
+    "matchedAuthors": [
+      "Виктор Пелевин"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/Generation%20%C2%AB%D0%9F%C2%BB",
+    "checkedAt": "2026-10-18"
+  },
+  "6": {
+    "yandexUrl": "https://books.yandex.ru/books/OG0xJNoT",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/3b/4d/OG0xJNoT-ipad.jpeg?image_hash=f2ac7cb9008c3d219e329efbce722812",
+    "matchedTitle": "Семь навыков высокоэффективных людей: Мощные инструменты развития личности (Юбилейное издание, дополненное)",
+    "matchedAuthors": [
+      "Стивен Кови"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/7%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%BE%D0%B2%20%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85%20%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9",
+    "checkedAt": "2026-10-18"
+  },
+  "29": {
+    "yandexUrl": "https://books.yandex.ru/books/mfI2zBiW",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/72/97/mfI2zBiW-ipad.jpeg?image_hash=bb4ebde2e82e85636f09a5ea87941ab3",
+    "matchedTitle": "Гордость и предубеждение",
+    "matchedAuthors": [
+      "Джейн Остен"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+    "checkedAt": "2026-10-18"
+  },
+  "34": {
+    "yandexUrl": "https://books.yandex.ru/books/ewQ9yTFR",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/84/67/ewQ9yTFR-ipad.jpeg?image_hash=1d582e427abfc35f1e4ee90da85a8ecc",
+    "matchedTitle": "Поток. Психология оптимального переживания",
+    "matchedAuthors": [
+      "Михай Чиксентмихайи"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA",
+    "checkedAt": "2026-10-18"
+  },
+  "44": {
+    "yandexUrl": "https://books.yandex.ru/books/InitKNWx",
+    "coverUrl": "https://api.bookmate.ru/assets/books-covers/f3/17/InitKNWx-ipad.jpeg?image_hash=4a861cb72853be386cf88e55ca693c3f",
+    "matchedTitle": "Путь дзэн. Истоки, принципы, практика",
+    "matchedAuthors": [
+      "Алан Уотс"
+    ],
+    "source": "Яндекс Книги",
+    "sourceUrl": "https://books.yandex.ru/search/all/%D0%9F%D1%83%D1%82%D1%8C%20%D0%B4%D0%B7%D0%B5%D0%BD",
+    "checkedAt": "2026-10-18"
+  }
+}

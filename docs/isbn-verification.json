@@ -1,0 +1,608 @@
+{
+  "1": {
+    "isbn": "9780156012195",
+    "title": "The Little Prince",
+    "authors": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/7268667-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL25435833M/The_Little_Prince"
+  },
+  "2": {
+    "isbn": "9780316017930",
+    "title": "Outliers: The Story of Success",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/7342494-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL25671296M/Outliers_The_Story_of_Success"
+  },
+  "3": {
+    "isbn": "9781476793313",
+    "title": "Jonathan Livingston Seagull",
+    "authors": [
+      "Richard Bach"
+    ],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL27194827M/Jonathan_Livingston_Seagull"
+  },
+  "4": {
+    "isbn": "9780393316049",
+    "title": "Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)",
+    "authors": [
+      "Richard Phillips Feynman",
+      "Ralph Leighton"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/249301-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL7453403M/Surely_You're_Joking_Mr._Feynman!_(Adventures_of_a_Curious_Character)"
+  },
+  "5": {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15162569-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL9242848M/To_Kill_a_Mockingbird"
+  },
+  "6": {
+    "isbn": "9780743269513",
+    "title": "The 7 habits of highly effective people",
+    "authors": [
+      "Stephen R. Covey"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/14829002-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL3309247M/The_7_habits_of_highly_effective_people"
+  },
+  "7": {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/14314120-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL46773254M/The_Great_Gatsby"
+  },
+  "8": {
+    "isbn": "9780345539434",
+    "title": "Cosmos",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8290911-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL26607901M/Cosmos"
+  },
+  "9": {
+    "isbn": "9780451524935",
+    "title": "1984",
+    "authors": [
+      "George Orwell"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15257452-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL62592675M/1984"
+  },
+  "10": {
+    "isbn": "9780061353246",
+    "title": "Predictably Irrational, Revised and Expanded Edition",
+    "authors": [
+      "Dan Ariely"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6304185-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL24087621M/Predictably_Irrational_Revised_and_Expanded_Edition"
+  },
+  "11": {
+    "isbn": "9781451673319",
+    "title": "Fahrenheit 451",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15265557-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL53780160M/Fahrenheit_451"
+  },
+  "12": {
+    "isbn": "9780807014295",
+    "title": "Man's Search for Meaning",
+    "authors": [
+      "Viktor Emil Frankl"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8513458-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL7944581M/Man's_Search_for_Meaning"
+  },
+  "13": {
+    "isbn": "9780399501487",
+    "title": "Lord of the flies",
+    "authors": [
+      "William Golding"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8231827-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL17196313M/Lord_of_the_flies"
+  },
+  "15": {
+    "isbn": "9780553208849",
+    "title": "Siddhartha",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6456720-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL15979990M/Siddhartha"
+  },
+  "16": {
+    "isbn": "9780449213940",
+    "title": "All Quiet on the Western Front",
+    "authors": [
+      "Erich Maria Remarque"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15225894-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL62083345M/All_Quiet_on_the_Western_Front"
+  },
+  "17": {
+    "isbn": "9780451526342",
+    "title": "Animal Farm",
+    "authors": [
+      "George Orwell"
+    ],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL31677688M/Animal_Farm"
+  },
+  "18": {
+    "isbn": "9780684801223",
+    "title": "The old man and the sea",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8701922-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL16825665M/The_old_man_and_the_sea"
+  },
+  "19": {
+    "isbn": "9780316769488",
+    "title": "The Catcher in the Rye",
+    "authors": [
+      "J. D. Salinger",
+      "Shao jia yun"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15172531-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL61363001M/The_Catcher_in_the_Rye"
+  },
+  "20": {
+    "isbn": "9780345391803",
+    "title": "The Hitch Hiker's Guide to The Galaxy",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL52739325M/The_Hitch_Hiker's_Guide_to_The_Galaxy"
+  },
+  "22": {
+    "isbn": "9780060850524",
+    "title": "Brave New World",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12992919-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL40234251M/Brave_New_World"
+  },
+  "23": {
+    "isbn": "9780141439570",
+    "title": "The Picture of Dorian Gray",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15259210-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL3701357M/The_Picture_of_Dorian_Gray"
+  },
+  "24": {
+    "isbn": "9780679720201",
+    "title": "The Stranger",
+    "authors": [
+      "Albert Camus"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/13151259-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL41520142M/The_Stranger"
+  },
+  "28": {
+    "isbn": "9780141439563",
+    "title": "Great Expectations",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/13029793-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL43721591M/Great_Expectations"
+  },
+  "29": {
+    "isbn": "9780141439518",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12645114-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL37076991M/Pride_and_Prejudice"
+  },
+  "30": {
+    "isbn": "9780374533557",
+    "title": "Thinking, fast and slow",
+    "authors": [
+      "Daniel Kahneman"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/7889800-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL26208390M/Thinking_fast_and_slow"
+  },
+  "31": {
+    "isbn": "9780375704024",
+    "title": "Norwegian Wood",
+    "authors": [
+      "村上春樹"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6376119-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL24196635M/Norwegian_Wood"
+  },
+  "32": {
+    "isbn": "9780684853949",
+    "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/10104616-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL28165704M/The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales"
+  },
+  "34": {
+    "isbn": "9780061339202",
+    "title": "Flow",
+    "authors": [
+      "Mihaly Csikszentmihalyi"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/9082625-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL18354762M/Flow"
+  },
+  "35": {
+    "isbn": "9781400079278",
+    "title": "Kafka on the shore",
+    "authors": [
+      "村上春樹"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6376109-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL24196633M/Kafka_on_the_shore"
+  },
+  "42": {
+    "isbn": "9780062316097",
+    "title": "Sapiens A brief Story of Human Kind",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/14369194-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL28440487M/Sapiens_A_brief_Story_of_Human_Kind"
+  },
+  "45": {
+    "isbn": "9780199291151",
+    "title": "The selfish gene",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8718355-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL17856751M/The_selfish_gene"
+  },
+  "50": {
+    "isbn": "9780062464316",
+    "title": "Homo deus",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12726713-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL27226513M/Homo_deus"
+  },
+  "60": {
+    "isbn": "9780441172719",
+    "title": "Dune",
+    "authors": [
+      "Frank Herbert"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15110282-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL59726263M/Dune"
+  },
+  "61": {
+    "isbn": "9780393317558",
+    "title": "Guns, germs, and steel",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12863097-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL39467240M/Guns_germs_and_steel"
+  },
+  "62": {
+    "isbn": "9780441478125",
+    "title": "The Left Hand of Darkness",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6989406-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL20525469M/The_Left_Hand_of_Darkness"
+  },
+  "63": {
+    "isbn": "9780312330538",
+    "title": "Shantaram",
+    "authors": [
+      "Gregory David Roberts"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6562158-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL24219497M/Shantaram"
+  },
+  "65": {
+    "isbn": "9780143127741",
+    "title": "The Body Keeps the Score",
+    "authors": [
+      "Bessel van der Kolk"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/14849962-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL26631800M/The_Body_Keeps_the_Score"
+  },
+  "71": {
+    "isbn": "9780805073690",
+    "title": "Why zebras don't get ulcers / Robert M. Sapolsky.",
+    "authors": [
+      "Robert M. Sapolsky"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12493377-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL18393496M/Why_zebras_don't_get_ulcers_Robert_M._Sapolsky."
+  },
+  "72": {
+    "isbn": "9780060883287",
+    "title": "One hundred years of solitude",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/-1-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL22752164M/One_hundred_years_of_solitude"
+  },
+  "78": {
+    "isbn": "9780679723165",
+    "title": "Lolita",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/7322666-L.jpg",
+    "sourceUrl": "http://openlibrary.org/books/OL25652062M/Lolita"
+  },
+  "80": {
+    "isbn": "9780156001311",
+    "title": "The Name of the Rose",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/115146-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL1089713M/The_Name_of_the_Rose"
+  },
+  "82": {
+    "isbn": "9780307389732",
+    "title": "Love in the time of cholera",
+    "authors": [
+      "Gabriel García Márquez"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/10096418-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL18433096M/Love_in_the_time_of_cholera"
+  },
+  "83": {
+    "isbn": "9780226458120",
+    "title": "The structure of scientific revolutions",
+    "authors": [
+      "Thomas S. Kuhn",
+      "Dennis Holland"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12131388-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL25067548M/The_structure_of_scientific_revolutions"
+  },
+  "102": {
+    "isbn": "9780316066525",
+    "title": "Infinite jest",
+    "authors": [
+      "David Foster Wallace"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/14832346-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL17216337M/Infinite_jest"
+  },
+  "104": {
+    "isbn": "9780140177398",
+    "title": "Of Mice and Men",
+    "authors": [
+      "John Steinbeck"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15153601-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL9304093M/Of_Mice_and_Men"
+  },
+  "106": {
+    "isbn": "9780735211292",
+    "title": "Atomic Habits",
+    "authors": [],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL60573595M/Atomic_Habits"
+  },
+  "107": {
+    "isbn": "9780061241895",
+    "title": "Influence",
+    "authors": [
+      "Robert B. Cialdini"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/9257169-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL18290713M/Influence"
+  },
+  "26": {
+    "isbn": "9780393312836",
+    "title": "A Clockwork Orange",
+    "authors": [
+      "Anthony Burgess"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8401474-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL18375627M/A_Clockwork_Orange"
+  },
+  "47": {
+    "isbn": "9780060894085",
+    "title": "Genome",
+    "authors": [
+      "Matt Ridley"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/7430040-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL7283762M/Genome"
+  },
+  "49": {
+    "isbn": "9781586380199",
+    "title": "The Bhagavad Gita",
+    "authors": [
+      "Vyasa"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15265755-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL62694605M/The_Bhagavad_Gita"
+  },
+  "52": {
+    "isbn": "9780805031492",
+    "title": "Escape from freedom",
+    "authors": [
+      "Erich Fromm"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/579343-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL1082108M/Escape_from_freedom"
+  },
+  "53": {
+    "isbn": "9780802130303",
+    "title": "Ficciones",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/13414336-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL7874504M/Ficciones"
+  },
+  "54": {
+    "isbn": "9780735213937",
+    "title": "Reality Is Not What It Seems: The Journey to Quantum Gravity",
+    "authors": [
+      "Carlo Rovelli"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8569862-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL26875458M/Reality_Is_Not_What_It_Seems_The_Journey_to_Quantum_Gravity"
+  },
+  "56": {
+    "isbn": "9780393338102",
+    "title": "The Elegant Universe",
+    "authors": [
+      "Brian Greene"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/6597185-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL24366274M/The_Elegant_Universe"
+  },
+  "58": {
+    "isbn": "9780156837507",
+    "title": "Solaris",
+    "authors": [
+      "Stanisław Lem"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/116520-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL2737434M/Solaris"
+  },
+  "67": {
+    "isbn": "9780395755310",
+    "title": "On becoming a person",
+    "authors": [
+      "Carl R. Rogers"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/8701990-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL20942547M/On_becoming_a_person"
+  },
+  "73": {
+    "isbn": "9780465019779",
+    "title": "The interpretation of dreams",
+    "authors": [
+      "Sigmund Freud"
+    ],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL24062369M/The_interpretation_of_dreams"
+  },
+  "74": {
+    "isbn": "9780156007757",
+    "title": "Blindness",
+    "authors": [
+      "José Saramago"
+    ],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL26368537M/Blindness"
+  },
+  "75": {
+    "isbn": "9780679723950",
+    "title": "Memories, dreams, reflections",
+    "authors": [
+      "Carl Gustav Jung"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/419859-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL2057983M/Memories_dreams_reflections"
+  },
+  "76": {
+    "isbn": "9780142437247",
+    "title": "Moby-Dick, or, The whale",
+    "authors": [
+      "Herman Melville"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/110556-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL3704476M/Moby-Dick_or_The_whale"
+  },
+  "79": {
+    "isbn": "9780143036227",
+    "title": "Descartes' error",
+    "authors": [
+      "Antonio R. Damasio",
+      "Antonio R. Damasio MD PhD"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12180272-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL22760084M/Descartes'_error"
+  },
+  "81": {
+    "isbn": "9780143126263",
+    "title": "Consciousness and the Brain",
+    "authors": [
+      "Stanislas Dehaene"
+    ],
+    "coverUrl": null,
+    "sourceUrl": "https://openlibrary.org/books/OL40415441M/Consciousness_and_the_Brain"
+  },
+  "86": {
+    "isbn": "9780691158136",
+    "title": "The Open Society and Its Enemies",
+    "authors": [
+      "Karl Popper"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/9368697-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL27980214M/The_Open_Society_and_Its_Enemies"
+  },
+  "88": {
+    "isbn": "9780674005112",
+    "title": "Justice as Fairness",
+    "authors": [
+      "John Rawls"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/15265618-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL15978166M/Justice_as_Fairness"
+  },
+  "99": {
+    "isbn": "9780061575594",
+    "title": "Being and Time",
+    "authors": [
+      "Martin Heidegger"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/12680359-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL9953197M/Being_and_Time"
+  },
+  "103": {
+    "isbn": "9780226143064",
+    "title": "The Gift of Death",
+    "authors": [
+      "Derrida",
+      "Jacques Derrida"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/140409-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL9457473M/The_Gift_of_Death"
+  },
+  "109": {
+    "isbn": "9780684803357",
+    "title": "For Whom the Bell Tolls",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "coverUrl": "https://covers.openlibrary.org/b/id/14811332-L.jpg",
+    "sourceUrl": "https://openlibrary.org/books/OL21616433M/For_Whom_the_Bell_Tolls"
+  }
+}
