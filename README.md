@@ -79,3 +79,13 @@ python scripts/cache_openlibrary_covers.py
 Проверка Читай-города из этой машины возвращает HTTP 403 с сообщением «Возможно, включён VPN» (географическое ограничение); прямые карточки не выдумывались. Используются ссылки на его публичный поиск. Для любых новых источников сохраняйте TLS-проверку и происхождение изображений.
 
 Скриншоты проверенной production-сборки: [список](docs/screenshots/desktop.png), [карточка книги](docs/screenshots/book.png), [мобильный вид](docs/screenshots/mobile.png).
+
+## Проверка опубликованного интерфейса
+
+После каждого развёртывания workflow проверяет build_type Pages, JavaScript/CSS по публичному URL, их MIME-типы, загрузку приложения в Chromium, отображение всех 118 книг и поиск. Отчёт и скриншот доступны в artifact `published-site-diagnostics`.
+
+```bash
+node scripts/check-published-site.mjs https://nicegenn.github.io/TopBooks/
+```
+
+Для локальной production-сборки можно передать адрес работающего `npm run preview`. Доступ к публичному домену должен быть разрешён сетевой политикой среды. Белая страница при публикации исходной ветки может возникать из-за загрузки исходного `/src/main.tsx` вместо собранного JavaScript; режим workflow публикует `dist`.

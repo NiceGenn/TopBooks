@@ -50,12 +50,18 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Ensure Pages uses the workflow build
+      - name: Report Pages source mode
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh api "repos/${GITHUB_REPOSITORY}/pages" --jq '{build_type, html_url, source}'
-          gh api --method PUT "repos/${GITHUB_REPOSITORY}/pages" -f build_type=workflow --silent
+          if mode=$(gh api "repos/${GITHUB_REPOSITORY}/pages" --jq '.build_type' 2>/tmp/pages-mode-error); then
+            echo "::notice title=Pages source mode::$mode"
+            if [ "$mode" != "workflow" ]; then
+              echo "::warning title=Pages source configuration::Pages uses $mode. Select GitHub Actions in repository Settings / Pages to prevent branch builds overwriting dist."
+            fi
+          else
+            echo "::warning title=Pages source lookup::$(cat /tmp/pages-mode-error)"
+          fi
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
