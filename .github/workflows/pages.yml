@@ -40,6 +40,8 @@ jobs:
   deploy:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     needs: build
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -48,6 +50,36 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Ensure Pages uses the workflow build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${GITHUB_REPOSITORY}/pages" --jq '{build_type, html_url, source}'
+          gh api --method PUT "repos/${GITHUB_REPOSITORY}/pages" -f build_type=workflow --silent
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+
+
+  verify-site:
+    name: Verify published application
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Check public HTML, assets and browser rendering
+        env:
+          SITE_URL: ${{ needs.deploy.outputs.page_url }}
+        run: node scripts/check-published-site.mjs "$SITE_URL"
+      - name: Save published site diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: published-site-diagnostics
+          path: test-results/published-site.*
