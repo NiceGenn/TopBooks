@@ -64,3 +64,29 @@ describe('Published edition catalog', () => {
     expect(catalogEditions['101']).toBeUndefined()
   })
 })
+
+describe('Owner-confirmed Orwell omnibus', () => {
+  it('marks both titles owned without changing source Excel data or reading progress', async () => {
+    const { applyUserUpdates } = await import('./library')
+    const previous = emptyData()
+    previous.books['17'] = { status: 'reading', owned: false, note: 'Сохранённая заметка' }
+    previous.editions['17'] = { coverUrl: 'https://example.com/my-cover.jpg' }
+    const updated = applyUserUpdates(previous)
+    expect(updated.books['17']).toEqual({ status: 'reading', owned: true, note: 'Сохранённая заметка' })
+    expect(updated.books['9'].owned).toBe(true)
+    expect(updated.editions['17'].coverUrl).toBe('https://example.com/my-cover.jpg')
+    expect(updated.editions['9'].chitaiUrl).toBe('https://www.chitai-gorod.ru/product/1984-skotnyy-dvor-2855976')
+    expect(updated.editions['17'].chitaiUrl).toBe(updated.editions['9'].chitaiUrl)
+    expect(previous.books['17'].owned).toBe(false)
+    expect(books.find(b => b.id === 17)?.owned).toBe(false)
+    expect(parseBackup(JSON.parse(JSON.stringify(updated)))).toEqual(updated)
+  })
+  it('does not reapply after a later manual edit, including after restoring a backup', async () => {
+    const { applyUserUpdates } = await import('./library')
+    const data = applyUserUpdates(emptyData())
+    data.books['17'].owned = false
+    const restored = parseBackup(JSON.parse(JSON.stringify(data)))
+    expect(applyUserUpdates(restored)).toBe(restored)
+    expect(getProgress(books.find(b => b.id === 17)!, restored).owned).toBe(false)
+  })
+})

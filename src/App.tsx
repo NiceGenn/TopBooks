@@ -2,7 +2,7 @@ import { useEffect, useRef, useState, type FormEvent, type ReactNode } from 'rea
 import { BookOpen, Search, ArrowUpRight, ChevronRight, ChevronDown, Download, Upload, List, LayoutGrid, Check, X, SlidersHorizontal, Library, NotebookPen, Info, ArrowRight, CheckCheck, Bookmark, Feather, ExternalLink } from 'lucide-react'
 import sourceUrl from '../sources/Книги — дополненный список 118.xlsx?url'
 import Cover from './Cover'
-import { annotations, books, catalogEditions, coverDetails, emptyData, filterBooks, getProgress, isAllowedUrl, levels, normalize, parseBackup, searchLinks, statuses, STORAGE_KEY } from './library'
+import { annotations, applyUserUpdates, userUpdates, books, catalogEditions, coverDetails, emptyData, filterBooks, getProgress, isAllowedUrl, levels, normalize, parseBackup, searchLinks, statuses, STORAGE_KEY } from './library'
 import type { Book, BookEdition, BookProgress, SavedData, Status } from './types'
 
 const SOURCE_NAME = 'Книги — дополненный список 118.xlsx'
@@ -48,6 +48,7 @@ function BookDetails({ book, data, onChange, onEdition, onClose }: { book: Book;
   const progress = getProgress(book, data)
   const edition = data.editions[book.id] ?? {}
   const links = { ...searchLinks(book), ...(catalogEditions[book.id] ? { yandexUrl: catalogEditions[book.id].yandexUrl } : {}), ...edition }
+  const printEdition = userUpdates.find(update => update.bookIds.includes(book.id) && update.chitaiUrl === links.chitaiUrl)
   return <Modal title={book.title} onClose={onClose} wide><div className="book-detail">
     <div className="detail-cover-column"><Cover book={book} {...coverDetails(book, data)} /><div className="source-note"><BookOpen size={15} /><span>Книга №{String(book.id).padStart(3, '0')}<br />из вашего списка</span></div></div>
     <div className="detail-content"><span className={`eyebrow level-color-${book.level}`}>Уровень {book.level} · {book.levelLabel}</span><h2>{book.title}</h2><p className="detail-author">{book.author}</p>
@@ -56,7 +57,7 @@ function BookDetails({ book, data, onChange, onEdition, onClose }: { book: Book;
       <div className="benefit"><Feather size={20} /><div><span>Что даст книга</span><p>{book.benefit}</p></div></div>
       <div className="detail-controls"><label>Мой прогресс<select aria-label="Статус чтения" value={progress.status} onChange={e => onChange(book.id, { status: e.target.value as Status })}>{Object.entries(statuses).map(([key, value]) => <option value={key} key={key}>{value}</option>)}</select></label><label className="owned-check"><input type="checkbox" checked={progress.owned} onChange={e => onChange(book.id, { owned: e.target.checked })} />Есть в бумажном</label></div>
       <div className="shop-links"><a href={links.yandexUrl} target="_blank" rel="noopener noreferrer" className="shop-link yandex"><span className="shop-logo" aria-hidden="true">Я</span><span>{edition.yandexUrl || catalogEditions[book.id] ? 'Яндекс Книги' : 'Найти в Яндекс Книгах'}</span><ArrowUpRight size={17} /></a><a href={links.chitaiUrl} target="_blank" rel="noopener noreferrer" className="shop-link chitai"><BookOpen size={19} /><span>{edition.chitaiUrl ? 'Читай-город' : 'Найти в Читай-городе'}</span><ArrowUpRight size={17} /></a></div>
-      <p className="link-note">Подтверждённые издания открываются напрямую; остальные ссылки ведут на поиск. Наличие и доступность книги могут меняться.</p>
+      <p className="link-note">{printEdition && <>Ваше бумажное издание: «{printEdition.editionTitle}». Один том включает обе записи списка.<br /></>}Подтверждённые издания открываются напрямую; остальные ссылки ведут на поиск. Наличие и доступность книги могут меняться.</p>
       <label className="note-label"><span><NotebookPen size={16} /> Мои заметки <small>сохраняются автоматически</small></span><textarea value={progress.note} maxLength={10000} onChange={e => onChange(book.id, { note: e.target.value })} placeholder="Мысль, цитата или то, к чему хочется вернуться…" rows={4} /></label>
       <EditionForm key={book.id} edition={edition} onSave={value => onEdition(book.id, value)} />
       <div className="detail-flags">{book.foundational && <span><Check size={14} />Фундаментальная</span>}{book.influential && <span><Check size={14} />Повлияла на мир</span>}<small>Страницы и признаки — из Excel, зависят от издания.</small></div>
@@ -66,7 +67,7 @@ function BookDetails({ book, data, onChange, onEdition, onClose }: { book: Book;
 
 export default function App() {
   const [data, setData] = useState<SavedData>(() => {
-    try { const saved = localStorage.getItem(STORAGE_KEY); return saved ? parseBackup(JSON.parse(saved)) : emptyData() } catch { return emptyData() }
+    try { const saved = localStorage.getItem(STORAGE_KEY); return applyUserUpdates(saved ? parseBackup(JSON.parse(saved)) : emptyData()) } catch { return applyUserUpdates(emptyData()) }
   })
   const [storageError, setStorageError] = useState(() => {
     try { const saved = localStorage.getItem(STORAGE_KEY); if (saved) parseBackup(JSON.parse(saved)); return '' } catch { return 'Не удалось прочитать сохранённые отметки. Исходный список доступен; повреждённые данные не перезаписаны.' }
@@ -88,7 +89,7 @@ export default function App() {
   const [preview, setPreview] = useState<{ book: Book; x: number; y: number } | null>(null)
   const hoverTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   const fileInput = useRef<HTMLInputElement>(null)
-  const revision = useRef(0)
+  const revision = useRef(1)
 
   useEffect(() => {
     if (revision.current === 0 || storageBlocked.current) return
@@ -141,7 +142,7 @@ export default function App() {
     if (!file) return
     try {
       if (file.size > 3 * 1024 * 1024) throw new Error('Файл слишком большой: максимум 3 МБ')
-      const parsed = parseBackup(JSON.parse(await file.text()))
+      const parsed = applyUserUpdates(parseBackup(JSON.parse(await file.text())))
       // An explicitly imported backup replaces local progress, including empty notes.
       setToastError(false)
       revision.current++; storageBlocked.current = false; setData(parsed); setStorageError(''); setToast('Отметки, заметки и издания восстановлены из копии')

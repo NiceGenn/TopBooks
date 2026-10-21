@@ -12,6 +12,7 @@ export interface BookEdition {
 }
 export interface SavedData {
   version: 1;
+  appliedUpdates?: string[];
   books: Record<string, BookProgress>;
   editions: Record<string, BookEdition>;
 }

@@ -1,6 +1,8 @@
 import rawBooks from './data/books.json'
 import descriptions from './data/descriptions.json'
 import rawEditions from './data/editions.json'
+import userUpdates from './data/user-updates.json'
+export { userUpdates }
 import type { Book, BookEdition, BookProgress, CatalogEdition, SavedData, Status } from './types'
 
 export const books: Book[] = rawBooks as Book[]
@@ -13,7 +15,7 @@ export const emptyData = (): SavedData => ({ version: 1, books: {}, editions: {}
 export const normalize = (text: string) => text.toLocaleLowerCase('ru').replaceAll('ё', 'е').normalize('NFKC').trim()
 
 export function getProgress(book: Book, saved: SavedData): BookProgress {
-  return saved.books[book.id] ?? { status: book.status, owned: book.owned, note: '' }
+  return saved.books[book.id] ?? { status: book.status, owned: userUpdates.find(update => update.bookIds.includes(book.id))?.owned ?? book.owned, note: '' }
 }
 
 export function isAllowedUrl(value: unknown, hosts?: string[]): value is string {
@@ -45,6 +47,10 @@ export function parseBackup(value: unknown): SavedData {
     }
     output.editions[key] = edition
   }
+  if (data.appliedUpdates !== undefined) {
+    if (!Array.isArray(data.appliedUpdates) || data.appliedUpdates.length > 1000 || !data.appliedUpdates.every(id => typeof id === 'string' && id.length <= 200)) throw new Error('Некорректная история обновлений')
+    output.appliedUpdates = [...data.appliedUpdates]
+  }
   return output
 }
 
@@ -64,4 +70,20 @@ export function coverDetails(book: Book, data: SavedData): { url?: string; sourc
   if (data.editions[book.id]?.coverUrl) return { url: data.editions[book.id].coverUrl, source: 'Выбранное вами издание' }
   const edition = catalogEditions[book.id]
   return edition ? { url: edition.localCover ? import.meta.env.BASE_URL + edition.localCover : edition.coverUrl, source: 'Обложка: Яндекс Книги · издание может отличаться' } : {}
+}
+
+// Apply explicit owner corrections once; later manual changes remain authoritative.
+export function applyUserUpdates(data: SavedData): SavedData {
+  const pending = userUpdates.filter(update => !data.appliedUpdates?.includes(update.id))
+  if (!pending.length) return data
+  const updated: SavedData = { ...data, books: { ...data.books }, editions: { ...data.editions }, appliedUpdates: [...(data.appliedUpdates ?? [])] }
+  for (const update of pending) {
+    for (const id of update.bookIds) {
+      const book = books.find(book => book.id === id)!
+      updated.books[id] = { ...getProgress(book, updated), owned: update.owned }
+      updated.editions[id] = { ...updated.editions[id], chitaiUrl: update.chitaiUrl }
+    }
+    updated.appliedUpdates!.push(update.id)
+  }
+  return updated
 }

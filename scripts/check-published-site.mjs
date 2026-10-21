@@ -47,6 +47,16 @@ try {
   await page.waitForFunction(() => document.querySelectorAll('.book-row').length === 2)
   report.searchResults = await page.locator('.book-row').count()
   assert.equal(report.searchResults, 2, 'Published search must find both Orwell books')
+  report.ownedOmnibus = []
+  for (const title of ['1984', 'Скотный двор']) {
+    await page.getByRole('button', { name: title, exact: true }).click()
+    const dialog = page.getByRole('dialog')
+    assert(await dialog.getByRole('checkbox', { name: 'Есть в бумажном', exact: true }).isChecked(), `${title} must be marked as owned`)
+    const link = await dialog.getByRole('link', { name: 'Читай-город', exact: true }).getAttribute('href')
+    assert.equal(link, 'https://www.chitai-gorod.ru/product/1984-skotnyy-dvor-2855976')
+    report.ownedOmnibus.push(title)
+    await page.keyboard.press('Escape')
+  }
   assert.deepEqual(report.pageErrors, [], 'Published application has JavaScript errors')
   report.success = true
   console.log(JSON.stringify(report, null, 2))
